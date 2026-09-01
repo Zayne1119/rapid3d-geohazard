@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env*
+!.env.example
+
+# Never publish event data or generated geospatial assets from this overview repository.
+data/
+outputs/
+deliverables/
+tmp/
+*.tif
+*.tiff
+*.jp2
+*.hgt
+*.las
+*.laz
+*.glb
+*.gltf
+*.b3dm
+*.geojson
+*.gpkg
+*.zip
+

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rapid3D GeoHazard mark">
+  <rect width="64" height="64" rx="16" fill="#07141a"/>
+  <path d="M10 44 22 20l10 14 8-18 14 28Z" fill="none" stroke="#49c3cf" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M13 48c11-6 19-4 27-10 6-4 8-7 12-14" fill="none" stroke="#ff8b38" stroke-width="4" stroke-linecap="round"/>
+</svg>
